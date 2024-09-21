@@ -99,7 +99,7 @@ if(response.error != null) {
     "from": "USD",
     "to": "EUR",
     "value": 1,
-    "convertedValue": 0.912990886347235
+    "convertedValue": 0.904118
   },
   "code": 200
 }
